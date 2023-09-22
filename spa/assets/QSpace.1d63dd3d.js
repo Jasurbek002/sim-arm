@@ -1,0 +1,1 @@
+import{_ as s,o as t,c,j as a,h as n}from"./index.aaf166e5.js";import{c as o}from"./use-router-link.4ee5d1c3.js";const r={},_={class:"flex items-center",style:{height:"75px"}};function p(e,i){return t(),c("div",_,[a(e.$slots,"default")])}var d=s(r,[["render",p]]);const l=n("div",{class:"q-space"});var u=o({name:"QSpace",setup(){return()=>l}});export{u as Q,d as _};

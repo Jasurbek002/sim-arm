@@ -1,0 +1,1 @@
+import{Q as r}from"./QBtn.12f37358.js";import{_ as e,o as t,i as n,w as s,j as a}from"./index.aaf166e5.js";const _={};function c(o,f){return t(),n(r,{color:"secondary"},{default:s(()=>[a(o.$slots,"default")]),_:3})}var p=e(_,[["render",c]]);export{p as _};
