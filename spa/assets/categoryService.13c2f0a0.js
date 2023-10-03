@@ -1,0 +1,1 @@
+import{api as a}from"./axios.bb950210.js";class t{constructor(){}async getAllCategory(){try{const{data:r}=await a.get("/category/all");if(r)return r.get_all_category}catch(r){console.error(r)}}}var c=new t;export{c as C};

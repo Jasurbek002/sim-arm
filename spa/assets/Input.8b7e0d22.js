@@ -1,0 +1,1 @@
+import{Q as o}from"./QInput.aeb6dd02.js";import{_ as e,o as r,i as n}from"./index.5221c97c.js";const _={};function c(t,s){return r(),n(o,{color:"positive",outlined:"","model-value":""})}var p=e(_,[["render",c]]);export{p as _};
